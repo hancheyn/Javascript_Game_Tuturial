@@ -3,4 +3,4 @@ follow along with the coding before using the code supplied on Github.
 
 Youtube Video:
 
-Use the pictures coplied in this repository to complete the tutorial.
+Use the pictures suplied in this repository to complete the tutorial.
